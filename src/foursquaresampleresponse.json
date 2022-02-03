@@ -1,0 +1,3805 @@
+{
+  "results": [
+    {
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "",
+      "distance": 7256,
+      "hours": {
+        "display": "Mon-Fri 12:00 AM-1:00 AM, 5:00 AM-11:59 PM; Sat-Sun 12:00 AM-2:00 AM, 5:00 AM-11:59 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "0100",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 1,
+            "open": "0500"
+          },
+          {
+            "close": "0100",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 2,
+            "open": "0500"
+          },
+          {
+            "close": "0100",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 3,
+            "open": "0500"
+          },
+          {
+            "close": "0100",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 4,
+            "open": "0500"
+          },
+          {
+            "close": "0100",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "0500"
+          },
+          {
+            "close": "0200",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "0500"
+          },
+          {
+            "close": "0200",
+            "day": 7,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 7,
+            "open": "0500"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "1314 N Redwood Rd",
+        "address_extended": "Ste 100",
+        "country": "US",
+        "dma": "Salt Lake City",
+        "locality": "Saratoga Springs",
+        "postcode": "84045",
+        "region": "UT"
+      },
+      "name": "Beto's Mexican Food",
+      "photos": [
+        {
+          "created_at": "2013-06-22T19:32:44.000Z",
+          "prefix": "https://igx.4sqi.net/img/general/",
+          "suffix": "/44004457_GJonJ8KmojzbHxO-sRyn8JZ52zat53CgKdc-CiAcOXg.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2012-12-15T19:36:07.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/211723_wA2MN2bfd4GoCOL1H-I42O3y9N0ERuJztSIf_3oKAko.jpg",
+          "width": 540,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2019-01-11T14:50:22.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/16423141_NWI7MvVyEscsmeYyvgyujRyvAaShPSs0nan5hX06GG8.jpg",
+          "width": 1079,
+          "height": 1920,
+          "classifications": [
+            "menu"
+          ]
+        },
+        {
+          "created_at": "2016-06-16T13:50:51.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/163790585_UR3gzP27sSETRXqeCY3hjWuu5mFT0bf0qyxh-dGWP_o.jpg",
+          "width": 1920,
+          "height": 1440,
+          "classifications": [
+            "indoor"
+          ]
+        },
+        {
+          "created_at": "2014-08-06T03:38:35.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/44223518_rM0hJLLDmwx2dYSCzgDyacm2x22tngDbJw1Zad709Qg.jpg",
+          "width": 640,
+          "height": 640,
+          "classifications": [
+            "food"
+          ]
+        }
+      ],
+      "rating": 8.3,
+      "tel": "(801) 766-8069",
+      "website": "http://betosmexicanfood.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13303,
+          "name": "Mexican Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 10173,
+      "hours": {
+        "display": "Mon 10:30 AM-11:00 PM; Tue-Thu 10:30 AM-10:00 PM; Fri-Sat 10:30 AM-11:00 PM; Sun 10:30 AM-10:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2300",
+            "day": 1,
+            "open": "1030"
+          },
+          {
+            "close": "2200",
+            "day": 2,
+            "open": "1030"
+          },
+          {
+            "close": "2200",
+            "day": 3,
+            "open": "1030"
+          },
+          {
+            "close": "2200",
+            "day": 4,
+            "open": "1030"
+          },
+          {
+            "close": "2300",
+            "day": 5,
+            "open": "1030"
+          },
+          {
+            "close": "2300",
+            "day": 6,
+            "open": "1030"
+          },
+          {
+            "close": "2200",
+            "day": 7,
+            "open": "1030"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "5506 W 13400 S",
+        "country": "US",
+        "cross_street": "at S 5600 West",
+        "dma": "Salt Lake City",
+        "locality": "Herriman",
+        "neighborhood": [
+          "Foothills"
+        ],
+        "postcode": "84096",
+        "region": "UT"
+      },
+      "name": "Cafe Rio Mexican Grill",
+      "photos": [
+        {
+          "created_at": "2014-04-23T01:47:33.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/83733657_qSvPt8Iq7JeMreaHr_CHpmycrhAqZqLmfE0orXyWUno.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "created_at": "2014-02-04T02:49:54.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/11916798__fA7LJstKdcZ-X5lg79qDItckTV0p_m2c04g71WR1Pw.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2013-12-20T20:29:38.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/24107_JhlQ5iRIub0jc0oG50gzOJ0pqijZWRW1nbrNiBB3Nhg.jpg",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "created_at": "2013-03-22T00:42:29.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/19530766_DegLmBFaMlrerVbyCRoNFPkZ5aInFyma8vMv8YUoMRg.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2012-12-18T23:53:44.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/24107_dyx_fSWp4vE1rCBNqLoTHXXqTG_QpC5wHbybIdnKSwA.jpg",
+          "width": 720,
+          "height": 540,
+          "classifications": [
+            "indoor"
+          ]
+        }
+      ],
+      "rating": 8.4,
+      "tel": "(801) 988-4800",
+      "website": "https://www.caferio.com/locations/herriman"
+    },
+    {
+      "categories": [
+        {
+          "id": 13039,
+          "name": "Deli",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Thanksgiving Point is a great escape for a day or a week. Home to the Museum of Ancient Life, Farm Country, Thanksgiving Point Gardens, and a wide array of dining and shopping options. Thanksgiving Point is a 501(c)(3) nonprofit organization.",
+      "distance": 3883,
+      "hours": {
+        "display": "Mon-Sat 10:00 AM-8:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2000",
+            "day": 1,
+            "open": "1000"
+          },
+          {
+            "close": "2000",
+            "day": 2,
+            "open": "1000"
+          },
+          {
+            "close": "2000",
+            "day": 3,
+            "open": "1000"
+          },
+          {
+            "close": "2000",
+            "day": 4,
+            "open": "1000"
+          },
+          {
+            "close": "2000",
+            "day": 5,
+            "open": "1000"
+          },
+          {
+            "close": "2000",
+            "day": 6,
+            "open": "1000"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "3003 N Thanksgiving Way",
+        "country": "US",
+        "dma": "Salt Lake City",
+        "locality": "Lehi",
+        "postcode": "84043",
+        "region": "UT"
+      },
+      "name": "Thanksgiving Point - R",
+      "photos": [
+        {
+          "created_at": "2013-05-30T21:06:12.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1230988_eLb_1k2veCpNiFsi3u19E6mZbYLd9cQe9HrU-K-yAM8.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "created_at": "2013-06-21T21:17:44.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/11587598_DIEZRwhvToGBQ_IXxvEqlnLu9mUOdmxY5wNdCV1a0L0.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": [
+            "indoor"
+          ]
+        },
+        {
+          "created_at": "2012-10-06T19:41:19.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/26403615_1mKqWJR6Nw8kY0VeRiVo7-4TrJVWhYrS-h2ARtEvu5w.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": [
+            "outdoor"
+          ]
+        },
+        {
+          "created_at": "2013-04-13T00:16:57.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/766828_a5LSC7cJChm4ar5Yrl4ndMbkuMiFwfT-NQVs1HZS4Is.jpg",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "created_at": "2013-12-08T01:53:27.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/49994376_eSKlFbQ9tIaChwOeB2FKAPvzSmYlffdrFeFBsXLVCp4.jpg",
+          "width": 720,
+          "height": 960,
+          "classifications": [
+            "outdoor"
+          ]
+        }
+      ],
+      "rating": 7.8,
+      "tel": "(801) 768-2300",
+      "website": "http://www.thanksgivingpoint.com"
+    },
+    {
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13068,
+          "name": "American Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "As we navigate the evolving impact of coronavirus on our communities, we are temporarily closing our dining room seating to help limit person-to-person contact. Some of our restaurants may only offer service through our drive-thrus, while others may be able to offer takeout, delivery or mobile or...",
+      "distance": 12414,
+      "hours": {
+        "display": "Mon-Sat 6:30 AM-10:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2200",
+            "day": 1,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 2,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 3,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 4,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 5,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 6,
+            "open": "0630"
+          }
+        ],
+        "seasonal": [
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "1030"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "1500",
+                "day": 5,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          }
+        ]
+      },
+      "location": {
+        "address": "183 N West State Rd",
+        "country": "US",
+        "dma": "Salt Lake City",
+        "locality": "American Fork",
+        "postcode": "84003",
+        "region": "UT"
+      },
+      "menu": "http://www.chick-fil-a.com/Food/Menu",
+      "name": "Chick-Fil-A",
+      "photos": [
+        {
+          "created_at": "2012-04-18T00:51:40.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/7zdGvpMg-OBOrNMRfgI-sQRxio3nNlwbbax2gTlFinw.jpg",
+          "width": 540,
+          "height": 720
+        },
+        {
+          "created_at": "2012-04-25T18:06:27.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/UVPPWL6iVB1SydlkkZD97eQUrKYdXE_Ybs7tDzjzgdM.jpg",
+          "width": 540,
+          "height": 720
+        },
+        {
+          "created_at": "2014-11-26T01:09:15.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/286364_SDPOdDIeESoCg8Fw2L3vJFXt8wkkgO6kLBfjJIQHoqo.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": [
+            "outdoor"
+          ]
+        },
+        {
+          "created_at": "2012-04-01T02:44:15.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/wcxPYhcfx1MLaeQ5XNzJosZLmat8T4QZINMz4n8lSNI.jpg",
+          "width": 720,
+          "height": 537
+        },
+        {
+          "created_at": "2012-03-28T18:01:35.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/4yURrYimGiITedbDbYckZ1QVwWWlsXkr9wl3Vr6xGlw.jpg",
+          "width": 540,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        }
+      ],
+      "rating": 8.7,
+      "tel": "(801) 763-2697",
+      "website": "http://www.chick-fil-a.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Quality you can taste",
+      "distance": 9410,
+      "hours": {
+        "display": "Mon-Fri 12:00 AM-1:00 AM, 10:30 AM-11:59 PM; Sat-Sun 12:00 AM-1:30 AM, 10:30 AM-11:59 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "0100",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 1,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 2,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 3,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 4,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "1030"
+          },
+          {
+            "close": "0130",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "1030"
+          },
+          {
+            "close": "0130",
+            "day": 7,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 7,
+            "open": "1030"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "12191 S State St",
+        "country": "US",
+        "cross_street": "btwn E 12150 S & E 12300 S",
+        "dma": "Salt Lake City",
+        "locality": "Draper",
+        "neighborhood": [
+          "Greenfield Farms"
+        ],
+        "postcode": "84020",
+        "region": "UT"
+      },
+      "name": "In-N-Out Burger",
+      "photos": [
+        {
+          "created_at": "2012-12-05T01:09:34.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/17199565_UVmXCMzvwVSxZfPQnyTrNuRJGTRbFcSPE6_PYiXKdrk.jpg",
+          "width": 540,
+          "height": 540,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2013-07-25T17:33:22.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/10407371_HCZ5l10xCTRcZgySwDXutJu6PoTkzAuZsy1zP8248Q8.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "created_at": "2013-06-29T01:14:45.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/4013922_ojQeYKabNyn5d9PYRb089JG2jKcckrWanxGdka8D5OI.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "created_at": "2012-05-02T18:30:58.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/CZUlrv2v8PkW_GZV-qVbkzxLyon3D60lVe1c1a2s2eg.jpg",
+          "width": 540,
+          "height": 720
+        },
+        {
+          "created_at": "2013-02-16T19:56:07.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/7167280_R4f0_obu4LlZV_nmnvRQbZR7VDWgaDPa1HhzyycSELg.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": [
+            "food"
+          ]
+        }
+      ],
+      "rating": 8.3,
+      "tel": "(800) 786-1000",
+      "website": "http://www.in-n-out.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Quality you can taste",
+      "distance": 9299,
+      "hours": {
+        "display": "Mon-Fri 12:00 AM-1:00 AM, 10:30 AM-11:59 PM; Sat-Sun 12:00 AM-1:30 AM, 10:30 AM-11:59 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "0100",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 1,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 2,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 3,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 4,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "1030"
+          },
+          {
+            "close": "0130",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "1030"
+          },
+          {
+            "close": "0130",
+            "day": 7,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 7,
+            "open": "1030"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "12569 S Crossing Dr",
+        "country": "US",
+        "cross_street": "at Bangerter Hwy.",
+        "dma": "Salt Lake City",
+        "locality": "Riverton",
+        "neighborhood": [
+          "Riverton Meadows"
+        ],
+        "postcode": "84096",
+        "region": "UT"
+      },
+      "name": "In-N-Out Burger",
+      "photos": [
+        {
+          "created_at": "2012-03-04T06:17:29.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/U6Pl3u0sP8IwxLX7OSpvNWTrSg_BuVZQGR7eAvGsdaU.jpg",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "created_at": "2013-03-10T19:08:22.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1104305_zmStUWB-FH0Ucb_pUrE28twr_6x2ZNSmGX7ZBfVGerA.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "created_at": "2012-02-16T23:48:18.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/xEPhVaslSnLQcTmAcwv4W2h7A6WuonDg2o4m6gWq7Kg.jpg",
+          "width": 537,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2012-05-28T19:09:15.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/bJjh9ABQfZisTcg6FxEgYqOMN63vLbEtet-4UM-Q-zI.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "created_at": "2012-03-26T17:49:21.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/6WpDz7tWNaRqSOsQFC9ptg3hzLTfm2WLcOd5nYv1Jgg.jpg",
+          "width": 720,
+          "height": 540
+        }
+      ],
+      "rating": 8.3,
+      "tel": "(800) 786-1000",
+      "website": "http://www.in-n-out.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "",
+      "distance": 11941,
+      "hours": {
+        "display": "Mon-Thu 11:00 AM-10:00 PM; Fri 11:00 AM-11:00 PM; Sat 11:30 AM-11:00 PM; Sun 4:00 PM-9:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2200",
+            "day": 1,
+            "open": "1100"
+          },
+          {
+            "close": "2200",
+            "day": 2,
+            "open": "1100"
+          },
+          {
+            "close": "2200",
+            "day": 3,
+            "open": "1100"
+          },
+          {
+            "close": "2200",
+            "day": 4,
+            "open": "1100"
+          },
+          {
+            "close": "2300",
+            "day": 5,
+            "open": "1100"
+          },
+          {
+            "close": "2300",
+            "day": 6,
+            "open": "1130"
+          },
+          {
+            "close": "2100",
+            "day": 7,
+            "open": "1600"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "10722 S River Front Pkwy",
+        "country": "US",
+        "dma": "Salt Lake City",
+        "locality": "South Jordan",
+        "neighborhood": [
+          "Leavitt Acres"
+        ],
+        "postcode": "84095",
+        "region": "UT"
+      },
+      "name": "Tsunami Restaurant & Sushi Bar",
+      "photos": [
+        {
+          "created_at": "2012-10-17T02:04:04.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/37924624_9lJBUtk5wmRfhv3eJQ0OzD7sirsIrWcfiM9PCKCBQDY.jpg",
+          "width": 540,
+          "height": 720,
+          "classifications": [
+            "outdoor"
+          ]
+        },
+        {
+          "created_at": "2011-11-17T20:28:38.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/SH5JP1ZVWCAEVPDPDTGNOGQVSNHVTSHK2IVYCKP1NZ40J55K.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "created_at": "2012-12-11T01:47:14.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/323519_Huc7wSVAAxmD9iRfK2LLqxiFm5UiqH_S6tC5wh_M5dk.jpg",
+          "width": 540,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2013-06-27T00:02:55.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1681956_AEyNfe_B5-hM0JDIP81o6_jjIiAr4rY4imt3tNOGJg8.jpg",
+          "width": 720,
+          "height": 960,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2013-02-25T01:41:30.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/323519_pOnX6078isOFGNiEWcKvlTz_--SWymitdWtAC4Wcq_w.jpg",
+          "width": 720,
+          "height": 960
+        }
+      ],
+      "rating": 8.5,
+      "tel": "(801) 748-1178",
+      "website": "http://www.tsunamiutah.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Quality you can taste",
+      "distance": 12765,
+      "hours": {
+        "display": "Mon-Fri 12:00 AM-1:00 AM, 10:30 AM-11:59 PM; Sat-Sun 12:00 AM-1:30 AM, 10:30 AM-11:59 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "0100",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 1,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 2,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 3,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 4,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "1030"
+          },
+          {
+            "close": "0130",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "1030"
+          },
+          {
+            "close": "0130",
+            "day": 7,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 7,
+            "open": "1030"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "601 W Main St",
+        "country": "US",
+        "cross_street": "btwn NW. State St. & I-15",
+        "dma": "Salt Lake City",
+        "locality": "American Fork",
+        "postcode": "84003",
+        "region": "UT"
+      },
+      "name": "In-N-Out Burger",
+      "photos": [
+        {
+          "created_at": "2012-05-19T18:13:32.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/bSqmV2KOwU0wavQE5BrimVSJxv7nqMmAD0Lz-5uchLk.jpg",
+          "width": 540,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2012-02-11T22:22:48.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/uYagwt2UTdl7OREn7LNVhSig3_1DprcgsVo1TCAgYzI.jpg",
+          "width": 720,
+          "height": 540,
+          "classifications": [
+            "outdoor"
+          ]
+        },
+        {
+          "created_at": "2011-06-25T01:01:44.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/EOEMIKECXDPHU4BC350YNMMT2N22M1YTQQ121CNIZJKJROKQ.jpg",
+          "width": 537,
+          "height": 720
+        },
+        {
+          "created_at": "2013-03-27T19:37:15.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/543294__NHcZLJ7NONEIVQJDLvSrpvd7UAylB-Xx84xkrn7MPo.jpg",
+          "width": 720,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2013-07-02T23:30:24.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/33943085_DjHezHBKODe2qelbVSDTC87Y7ms0KmMHjLUUTz3fZv0.jpg",
+          "width": 720,
+          "height": 960
+        }
+      ],
+      "rating": 8.6,
+      "tel": "(800) 786-1000",
+      "website": "http://www.in-n-out.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "1276 W 12600 S. Riverton, UT 84065",
+      "distance": 8071,
+      "hours": {
+        "display": "Mon-Thu 11:00 AM-9:30 PM; Fri-Sat 11:00 AM-10:00 PM",
+        "is_local_holiday": false,
+        "open_now": false,
+        "regular": [
+          {
+            "close": "2130",
+            "day": 1,
+            "open": "1100"
+          },
+          {
+            "close": "2130",
+            "day": 2,
+            "open": "1100"
+          },
+          {
+            "close": "2130",
+            "day": 3,
+            "open": "1100"
+          },
+          {
+            "close": "2130",
+            "day": 4,
+            "open": "1100"
+          },
+          {
+            "close": "2200",
+            "day": 5,
+            "open": "1100"
+          },
+          {
+            "close": "2200",
+            "day": 6,
+            "open": "1100"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "1276 W 12600 S",
+        "country": "US",
+        "dma": "Salt Lake City",
+        "locality": "Riverton",
+        "neighborhood": [
+          "Edgewood"
+        ],
+        "postcode": "84065",
+        "region": "UT"
+      },
+      "menu": "https://www.rcpizzaco.com",
+      "name": "Rock Creek Pizza",
+      "photos": [
+        {
+          "created_at": "2011-12-24T01:24:32.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/21VAZRFH32ZMZIFWA0303O1XY5MWEOEAAQOFHMZKPKBLQO1O.jpg",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "created_at": "2018-10-24T16:37:44.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/513322279_p1Fb3VIaO7VgFL8uftRx1mohXPPNiJfnN5sbDnk0mGk.jpg",
+          "width": 1024,
+          "height": 683,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2018-10-24T16:37:33.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/513322279_SRB7mtAelC6PlqQVWXYGc0X1nO2APPXGsJ1aFqTKkR4.jpg",
+          "width": 1024,
+          "height": 1024,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2018-10-24T16:27:23.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/513322279_TfPXz81bUsQv1TH-144mMOXKZOg3zUowrcZzrHaIsuA.jpg",
+          "width": 1024,
+          "height": 1024,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2018-10-24T16:26:59.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/513322279_3L_kpDmU5yrTzlCC5JoovSr3bWH1MHKsSqeUs582uOs.jpg",
+          "width": 1024,
+          "height": 1024,
+          "classifications": [
+            "food"
+          ]
+        }
+      ],
+      "rating": 8,
+      "tel": "(801) 253-3711",
+      "website": "http://www.rockcreekpizzaco.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13068,
+          "name": "American Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "As we navigate the evolving impact of coronavirus on our communities, we are temporarily closing our dining room seating to help limit person-to-person contact. Some of our restaurants may only offer service through our drive-thrus, while others may be able to offer takeout, delivery or mobile or...",
+      "distance": 13500,
+      "hours": {
+        "display": "Mon-Sat 6:30 AM-10:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2200",
+            "day": 1,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 2,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 3,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 4,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 5,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 6,
+            "open": "0630"
+          }
+        ],
+        "seasonal": [
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2000",
+                "day": 6,
+                "open": "1030"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "1500",
+                "day": 5,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2000",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          }
+        ]
+      },
+      "location": {
+        "address": "10090 S State St",
+        "country": "US",
+        "dma": "Salt Lake City",
+        "locality": "Sandy",
+        "neighborhood": [
+          "Torry Pines"
+        ],
+        "postcode": "84070",
+        "region": "UT"
+      },
+      "menu": "http://www.chick-fil-a.com/Food/Menu",
+      "name": "Chick-Fil-A",
+      "photos": [
+        {
+          "created_at": "2012-06-19T20:43:52.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/ZDyXOuflppwhhXertsfq-SlcxOVbnKvPzHE6UEumlWc.jpg",
+          "width": 720,
+          "height": 537,
+          "classifications": [
+            "outdoor"
+          ]
+        },
+        {
+          "created_at": "2014-04-15T18:39:48.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/32384920__58maouzwUkW8Ne6NngowmcVWW2GPKxyHXOxBOTbWP4.jpg",
+          "width": 720,
+          "height": 960,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2012-02-25T20:52:22.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/206NlleoXwG6jx5-7MNJ9NIweg3iOphN6OfnNQL8p34.jpg",
+          "width": 537,
+          "height": 720
+        },
+        {
+          "created_at": "2014-02-01T17:10:19.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/42886602_zDeh1eD83owi3Q-VeOhEnKa2bxwwljSL-wbXRISsMnE.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2014-01-25T17:38:55.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/42886602_XDoJLk89rUwV1AECf25UvkXL09vh_DEe4a3SFpNkyFE.jpg",
+          "width": 720,
+          "height": 960,
+          "classifications": [
+            "indoor"
+          ]
+        }
+      ],
+      "rating": 8.5,
+      "tel": "(801) 563-9716",
+      "website": "http://www.chick-fil-a.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13303,
+          "name": "Mexican Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 4044,
+      "hours": {
+        "display": "Open Daily 10:45 AM-10:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2200",
+            "day": 1,
+            "open": "1045"
+          },
+          {
+            "close": "2200",
+            "day": 2,
+            "open": "1045"
+          },
+          {
+            "close": "2200",
+            "day": 3,
+            "open": "1045"
+          },
+          {
+            "close": "2200",
+            "day": 4,
+            "open": "1045"
+          },
+          {
+            "close": "2200",
+            "day": 5,
+            "open": "1045"
+          },
+          {
+            "close": "2200",
+            "day": 6,
+            "open": "1045"
+          },
+          {
+            "close": "2200",
+            "day": 7,
+            "open": "1045"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "3601 N Digital Dr",
+        "address_extended": "Ste 202",
+        "country": "US",
+        "cross_street": "",
+        "dma": "Salt Lake City",
+        "locality": "Lehi",
+        "postcode": "84043",
+        "region": "UT"
+      },
+      "name": "Chipotle Mexican Grill",
+      "photos": [
+        {
+          "created_at": "2019-04-09T22:46:52.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/87388367_HYuT0MaZVSXfoIRv-_Ng-W3E0HM39sjRWOBTzFk9CCo.jpg",
+          "width": 619,
+          "height": 619,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2019-04-09T22:46:52.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/87388367_txGas9cVKRYMuvffH0Xo8mAH72-uMldlWUyTkTS4gWY.jpg",
+          "width": 619,
+          "height": 619,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2019-04-09T22:46:52.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/87388367_nGsmf51t5O-TDnF3fx8cp__4jz34WNxjpqYjaJ7ZMSA.jpg",
+          "width": 619,
+          "height": 619,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2019-04-09T22:46:52.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/87388367_d8mBu2CN5Ttd6FAS6QqzJjVXk5g_0Zx4a74XMdeE414.jpg",
+          "width": 619,
+          "height": 619,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2019-04-09T22:46:51.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/87388367_1aI9y3WMEvlMoTdXC_Y1igYxpROZIWOFoV10IgLGrzs.jpg",
+          "width": 619,
+          "height": 619,
+          "classifications": [
+            "food"
+          ]
+        }
+      ],
+      "rating": 7.6,
+      "tel": "(385) 352-8140",
+      "website": "http://www.chipotle.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "",
+      "distance": 8705,
+      "hours": {
+        "display": "Mon-Thu 7:00 AM-11:00 PM; Fri-Sat 7:00 AM-11:59 PM; Sun 8:00 AM-11:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2300",
+            "day": 1,
+            "open": "0700"
+          },
+          {
+            "close": "2300",
+            "day": 2,
+            "open": "0700"
+          },
+          {
+            "close": "2300",
+            "day": 3,
+            "open": "0700"
+          },
+          {
+            "close": "2300",
+            "day": 4,
+            "open": "0700"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "0700"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "0700"
+          },
+          {
+            "close": "2300",
+            "day": 7,
+            "open": "0800"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "529 W 12300 S",
+        "country": "US",
+        "cross_street": "",
+        "dma": "Salt Lake City",
+        "locality": "Draper",
+        "postcode": "84020",
+        "region": "UT"
+      },
+      "name": "Apollo Burger",
+      "photos": [
+        {
+          "created_at": "2017-12-03T19:20:15.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/7021_otuHqcYyKi54S_-3UEe9l-cK6fB6vv0Lo_KSO5JYo2U.jpg",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "created_at": "2013-03-31T00:06:09.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/39433522_U1gRkSZkKSQ1Ei7LOwK5gzsgTbxnQXtp4v5BGNHTREs.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2013-03-30T23:08:02.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/39433522_iCR9HCD7mJw6Fj4iIcGJDJGCIIDvyxxCXoxGR-uR_wY.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "created_at": "2012-10-13T01:22:16.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/24107_bh1rK0IuzrHrrI7eb6RgWTSej0MWGF8TgCAyI3iq7Ms.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "created_at": "2012-05-14T17:48:02.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/f2voD6x1xS3sjV8-BmxhNX6ILhtaCBa-iBZ29t7GfLw.jpg",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "rating": 7.9,
+      "tel": "(801) 748-1844",
+      "website": "http://www.apolloburgers.com"
+    },
+    {
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13332,
+          "name": "Salad Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/salad_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13334,
+          "name": "Sandwich Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 3663,
+      "hours": {
+        "display": "Mon-Sat 8:00 AM-9:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2100",
+            "day": 1,
+            "open": "0800"
+          },
+          {
+            "close": "2100",
+            "day": 2,
+            "open": "0800"
+          },
+          {
+            "close": "2100",
+            "day": 3,
+            "open": "0800"
+          },
+          {
+            "close": "2100",
+            "day": 4,
+            "open": "0800"
+          },
+          {
+            "close": "2100",
+            "day": 5,
+            "open": "0800"
+          },
+          {
+            "close": "2100",
+            "day": 6,
+            "open": "0800"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "3430 N Ashton Blvd",
+        "address_extended": "Ste 100",
+        "country": "US",
+        "cross_street": "",
+        "dma": "Salt Lake City",
+        "locality": "Lehi",
+        "postcode": "84043",
+        "region": "UT"
+      },
+      "name": "Aubergine & Company",
+      "photos": [
+        {
+          "created_at": "2021-01-09T02:15:21.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/368601_1rH9iFOmVmXvwNlqnds83i58gzjsVNadqPBzh8au7MY.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "created_at": "2017-09-02T00:33:30.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/9082209_yaL8u3jEoYG6h295AYoeMrEIsJCRMxJDSKv_KAEJTX0.jpg",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "created_at": "2017-07-08T00:40:44.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/9082209_Ye5vj1Nz0aF837VfHsl5kN75p7Awx7xthcJ_o2e-Bsg.jpg",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "created_at": "2016-08-16T19:17:34.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/138701292_LOMaZEhAPgtM3lckq45w6m9-hV_qLvmTe4MtnxzvmaA.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "created_at": "2016-08-03T19:32:04.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/138701292_ODu_oeiZp6WoCEk1tosVUlXx66ny8w3AtxAuUTobt-g.jpg",
+          "width": 1440,
+          "height": 1920,
+          "classifications": [
+            "food"
+          ]
+        }
+      ],
+      "rating": 7.5,
+      "tel": "(385) 352-8500",
+      "website": "http://aubergineandcompany.com"
+    },
+    {
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "",
+      "distance": 19046,
+      "hours": {
+        "display": "Mon-Sat 11:30 AM-10:00 PM; Sun 5:00 PM-9:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2200",
+            "day": 1,
+            "open": "1130"
+          },
+          {
+            "close": "2200",
+            "day": 2,
+            "open": "1130"
+          },
+          {
+            "close": "2200",
+            "day": 3,
+            "open": "1130"
+          },
+          {
+            "close": "2200",
+            "day": 4,
+            "open": "1130"
+          },
+          {
+            "close": "2200",
+            "day": 5,
+            "open": "1130"
+          },
+          {
+            "close": "2200",
+            "day": 6,
+            "open": "1130"
+          },
+          {
+            "close": "2100",
+            "day": 7,
+            "open": "1700"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "7628 S Union Park Ave",
+        "country": "US",
+        "cross_street": "at S 1300 E",
+        "dma": "Salt Lake City",
+        "locality": "Midvale",
+        "neighborhood": [
+          "Curtis"
+        ],
+        "postcode": "84047",
+        "region": "UT"
+      },
+      "name": "Tsunami Restaurant & Sushi Bar",
+      "photos": [
+        {
+          "created_at": "2013-03-31T02:56:12.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/28280768_9jkxmcxBF6mG6m9owgtB2JfUv3CaVqcI40HrlptFBi0.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2013-02-12T02:02:33.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/272940_8ltvNwSxTcVVRF71zca5YowsCZMrE1R8DLwo25rD3v0.jpg",
+          "width": 720,
+          "height": 960,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2012-02-15T02:19:04.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/vV-5IJzM6Bx9Uk1DssIP18h6Pyv_v4ZVHmPUZLrliLo.jpg",
+          "width": 540,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2012-07-20T18:00:59.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/COHWc6fMDEEzIbGwHTNcusNgvJTs-6y06Z_7kXvwXXI.jpg",
+          "width": 540,
+          "height": 720,
+          "classifications": [
+            "menu"
+          ]
+        },
+        {
+          "created_at": "2013-06-14T00:18:45.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/7558334_drnsxAk43sFtaQejMsLPlIKoPWLqb9XVw-h5WzptQRU.jpg",
+          "width": 960,
+          "height": 720
+        }
+      ],
+      "rating": 8.6,
+      "tel": "(801) 676-6466",
+      "website": "http://www.tsunamiutah.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13068,
+          "name": "American Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "",
+      "distance": 17483,
+      "hours": {
+        "display": "Open Daily 5:00 PM-10:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2200",
+            "day": 1,
+            "open": "1700"
+          },
+          {
+            "close": "2200",
+            "day": 2,
+            "open": "1700"
+          },
+          {
+            "close": "2200",
+            "day": 3,
+            "open": "1700"
+          },
+          {
+            "close": "2200",
+            "day": 4,
+            "open": "1700"
+          },
+          {
+            "close": "2200",
+            "day": 5,
+            "open": "1700"
+          },
+          {
+            "close": "2200",
+            "day": 6,
+            "open": "1700"
+          },
+          {
+            "close": "2200",
+            "day": 7,
+            "open": "1700"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "8256 S 700 E",
+        "country": "US",
+        "cross_street": "",
+        "dma": "Salt Lake City",
+        "locality": "Sandy",
+        "postcode": "84070",
+        "region": "UT"
+      },
+      "name": "Tiburon",
+      "photos": [
+        {
+          "created_at": "2012-06-09T00:35:17.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/KPHl702I3WAcEK7NjSjX8CkbLNgk8ejp1eO7GC9XY3k.jpg",
+          "width": 720,
+          "height": 431,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2016-07-04T04:01:35.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/11141_VRB_hWT9cGF8coPaJoTwA6qMIUz75RPaY8LRoveKj40.jpg",
+          "width": 1920,
+          "height": 1440,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2015-08-05T03:58:46.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/42211_IWMVRQlXIcrBspCPIVzLRid-drgO2vM0UkGYAymvmkc.jpg",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "created_at": "2014-07-10T01:45:41.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/54684121_p3D38RwplcrJ-c4BfMtkkORV4zG8WfjQolCkvxedDIE.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": [
+            "food"
+          ]
+        }
+      ],
+      "rating": 8.4,
+      "tel": "(801) 255-1200",
+      "website": "http://www.tiburonfinedining.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "At HuHot you are the master of your destiny. Create your own unlimited stir fry by choosing from our vast selection of meats, noodles, vegetables and Asian-inspired sauces. Then watch as your creation is cooked to perfection on our grill of epic proportions...",
+      "distance": 12105,
+      "hours": {
+        "display": "Mon-Thu 11:00 AM-9:00 PM; Fri-Sat 11:00 AM-10:00 PM; Sun 11:00 AM-8:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2100",
+            "day": 1,
+            "open": "1100"
+          },
+          {
+            "close": "2100",
+            "day": 2,
+            "open": "1100"
+          },
+          {
+            "close": "2100",
+            "day": 3,
+            "open": "1100"
+          },
+          {
+            "close": "2100",
+            "day": 4,
+            "open": "1100"
+          },
+          {
+            "close": "2200",
+            "day": 5,
+            "open": "1100"
+          },
+          {
+            "close": "2200",
+            "day": 6,
+            "open": "1100"
+          },
+          {
+            "close": "2000",
+            "day": 7,
+            "open": "1100"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "10835 S State St",
+        "country": "US",
+        "dma": "Salt Lake City",
+        "locality": "Sandy",
+        "postcode": "84070",
+        "region": "UT"
+      },
+      "menu": "https://www.huhot.com/menu/",
+      "name": "HuHot Mongolian Grill",
+      "photos": [
+        {
+          "created_at": "2013-11-02T23:43:03.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/334302_cDqslNgefTTCRHOEOVWbnC_xdPumiZYjSitDzE6cPbQ.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "created_at": "2014-01-12T20:47:32.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/76342_pQzaCn9Wc5WrfjOf40qa3WX8NiOObWc6nqOulvsndTE.jpg",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "created_at": "2013-12-31T00:21:21.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/15690420_IKeKqpH92RU-AYGKYmgi3-M5PmuPUj76Y1zXjU_xv4A.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "created_at": "2014-03-29T18:07:57.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1664543_M8W9czF3qeRqRybzLgpaZcU1Yfs4-yOGCGMNm_iop6c.jpg",
+          "width": 959,
+          "height": 717,
+          "classifications": [
+            "indoor"
+          ]
+        },
+        {
+          "created_at": "2013-11-06T20:39:35.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/69292418_FwfJeIw6BN0Jg_619XiUzx_oEVefuu2TIyWUwDazTmY.jpg",
+          "width": 640,
+          "height": 640,
+          "classifications": [
+            "food"
+          ]
+        }
+      ],
+      "rating": 8,
+      "tel": "(801) 572-2209",
+      "website": "https://www.huhot.com/location/sandy-ut/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Quality you can taste",
+      "distance": 19927,
+      "hours": {
+        "display": "Mon-Fri 12:00 AM-1:00 AM, 10:30 AM-11:59 PM; Sat-Sun 12:00 AM-1:30 AM, 10:30 AM-11:59 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "0100",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 1,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 2,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 3,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 4,
+            "open": "1030"
+          },
+          {
+            "close": "0100",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "1030"
+          },
+          {
+            "close": "0130",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "1030"
+          },
+          {
+            "close": "0130",
+            "day": 7,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 7,
+            "open": "1030"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "7206 S Union Park Ave",
+        "country": "US",
+        "cross_street": "at Family Center at Fort Union",
+        "dma": "Salt Lake City",
+        "locality": "Midvale",
+        "neighborhood": [
+          "Union Plat"
+        ],
+        "postcode": "84047",
+        "region": "UT"
+      },
+      "name": "In-N-Out Burger",
+      "photos": [
+        {
+          "created_at": "2013-03-19T20:10:35.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/44077977_D2xeLVDq6eKZmGIVyg8UgZL3gnFHtOWks02ouNnnXxQ.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "created_at": "2011-11-19T02:40:45.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/QYE01QP3IL4D54ELNAUNSQTQ2NHXYRIQM1KUU3A5EWGNFOUE.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "created_at": "2012-04-21T23:36:31.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/0gQIg8ssmq530j_6h7pnIMSRWnt7xbBo_yA3I5tznig.jpg",
+          "width": 432,
+          "height": 720
+        },
+        {
+          "created_at": "2012-08-19T18:03:22.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/Pru1lYB3k0YaHFXQ69y0ZmY-HRKWv79rwQYp_HueL2M.jpg",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "created_at": "2012-03-25T20:11:11.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/bre8ERrBRxijqsZmM6XD094NUYsQpKyAzmiAs_NJ5jM.jpg",
+          "width": 540,
+          "height": 720,
+          "classifications": [
+            "indoor"
+          ]
+        }
+      ],
+      "rating": 8.5,
+      "tel": "(800) 786-1000",
+      "website": "http://www.in-n-out.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 10261,
+      "hours": {
+        "display": "Mon-Thu 10:00 AM-11:00 PM; Fri-Sat 10:00 AM-11:59 PM; Sun 11:00 AM-10:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2300",
+            "day": 1,
+            "open": "1000"
+          },
+          {
+            "close": "2300",
+            "day": 2,
+            "open": "1000"
+          },
+          {
+            "close": "2300",
+            "day": 3,
+            "open": "1000"
+          },
+          {
+            "close": "2300",
+            "day": 4,
+            "open": "1000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "1000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "1000"
+          },
+          {
+            "close": "2200",
+            "day": 7,
+            "open": "1100"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "570 E Main St",
+        "country": "US",
+        "dma": "Salt Lake City",
+        "locality": "Lehi",
+        "postcode": "84043",
+        "region": "UT"
+      },
+      "name": "Arctic Circle Restaurant",
+      "photos": [
+        {
+          "created_at": "2013-03-10T02:58:57.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/32097989_vBwG9jPJxWl0zwJmholU3ci45kMKwdto4hXWgdqd_rM.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "created_at": "2011-11-09T04:47:15.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/WNXPDO3KHZVMK0RC0Q3103ST32TNFZ545CYOZMIS5YGKPOHY.jpg",
+          "width": 720,
+          "height": 540
+        }
+      ],
+      "rating": 7.8,
+      "tel": "(801) 768-4679",
+      "website": "https://www.acburger.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13068,
+          "name": "American Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "As we navigate the evolving impact of coronavirus on our communities, we are temporarily closing our dining room seating to help limit person-to-person contact. Some of our restaurants may only offer service through our drive-thrus, while others may be able to offer takeout, delivery or mobile or...",
+      "distance": 11230,
+      "hours": {
+        "display": "Mon-Sat 6:30 AM-10:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2200",
+            "day": 1,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 2,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 3,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 4,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 5,
+            "open": "0630"
+          },
+          {
+            "close": "2200",
+            "day": 6,
+            "open": "0630"
+          }
+        ],
+        "seasonal": [
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "1800",
+                "day": 6,
+                "open": "1030"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "1500",
+                "day": 5,
+                "open": "0630"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2200",
+                "day": 1,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 2,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 3,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 4,
+                "open": "0630"
+              },
+              {
+                "close": "1800",
+                "day": 5,
+                "open": "0630"
+              },
+              {
+                "close": "2200",
+                "day": 6,
+                "open": "0630"
+              }
+            ]
+          }
+        ]
+      },
+      "location": {
+        "address": "11494 S District Dr",
+        "country": "US",
+        "cross_street": "",
+        "dma": "Salt Lake City",
+        "locality": "South Jordan",
+        "postcode": "84095",
+        "region": "UT"
+      },
+      "menu": "http://www.chick-fil-a.com/Food/Menu",
+      "name": "Chick-Fil-A",
+      "photos": [
+        {
+          "created_at": "2011-11-25T19:30:22.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/2M1AGFI0HOQBUG2OLOGCMWUDP51YSOY0U5EOBR2FSRN1VICI.jpg",
+          "width": 431,
+          "height": 720
+        },
+        {
+          "created_at": "2012-08-02T02:52:03.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/Bs-ev-DwWeGX3663ieLTymVk8IvzM7VXGfvxGzI34wE.jpg",
+          "width": 720,
+          "height": 540,
+          "classifications": [
+            "outdoor"
+          ]
+        },
+        {
+          "created_at": "2013-02-09T00:40:47.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/19121439_6xFU1vNHLs75x43U7BYuZYSV2zX6VKG5S544ZJn2A_E.jpg",
+          "width": 720,
+          "height": 537
+        },
+        {
+          "created_at": "2015-09-25T19:44:07.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/11129486_rNmFZ3wuOXRyurkHQwhU_AW7csD0l6hpUFJtmjHZgYo.jpg",
+          "width": 540,
+          "height": 960,
+          "classifications": [
+            "food"
+          ]
+        },
+        {
+          "created_at": "2015-02-28T20:57:22.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1090006_DJu7TwWEgFYTQ7vfx764kI2XblqNWduB_-wJUupTlxk.jpg",
+          "width": 960,
+          "height": 720
+        }
+      ],
+      "rating": 7.8,
+      "tel": "(801) 727-2697",
+      "website": "http://www.chick-fil-a.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13303,
+          "name": "Mexican Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 19579,
+      "hours": {
+        "display": "Open Daily 9:00 AM-7:00 PM",
+        "is_local_holiday": false,
+        "open_now": false,
+        "regular": [
+          {
+            "close": "1900",
+            "day": 1,
+            "open": "0900"
+          },
+          {
+            "close": "1900",
+            "day": 2,
+            "open": "0900"
+          },
+          {
+            "close": "1900",
+            "day": 3,
+            "open": "0900"
+          },
+          {
+            "close": "1900",
+            "day": 4,
+            "open": "0900"
+          },
+          {
+            "close": "1900",
+            "day": 5,
+            "open": "0900"
+          },
+          {
+            "close": "1900",
+            "day": 6,
+            "open": "0900"
+          },
+          {
+            "close": "1900",
+            "day": 7,
+            "open": "0900"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "330 E State Rd",
+        "country": "US",
+        "dma": "Salt Lake City",
+        "locality": "Pleasant Grove",
+        "neighborhood": [
+          "String Town"
+        ],
+        "postcode": "84062",
+        "region": "UT"
+      },
+      "name": "Los Compadres",
+      "photos": [
+        {
+          "created_at": "2021-04-19T18:27:50.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/2394589_pfTciicwGa0qW3cRulpa_7DT-nDsPjYMTmtHYc4GoK8.jpg",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "created_at": "2020-01-27T20:13:24.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/156398_zEw02NNpwohleD_yb5TaBhaKQnJiJNTl8Y5QFF2yM50.jpg",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "created_at": "2017-03-04T01:05:55.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/9199955_xAQDePti8O5hXw5MDafT-Bv1bPFeakKbBE0wxp5jAos.jpg",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "created_at": "2017-03-04T01:04:54.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/9199955_PGSM-nTwjhRXTzd883l60mC6ReB6ZSlyL--jk1MF61U.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "created_at": "2017-02-11T23:00:06.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/2042181_3dhXOLMO78H_jw4WVcTRTjMpPAM3aQdHtUcGorj6o1Q.jpg",
+          "width": 5312,
+          "height": 2988
+        }
+      ],
+      "rating": 8.2,
+      "tel": "(801) 796-0979",
+      "website": "http://www.loscompadresaz.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13068,
+          "name": "American Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 11790,
+      "hours": {
+        "display": "Mon-Thu 11:00 AM-10:00 PM; Fri-Sat 11:00 AM-11:00 PM; Sun 11:00 AM-10:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2200",
+            "day": 1,
+            "open": "1100"
+          },
+          {
+            "close": "2200",
+            "day": 2,
+            "open": "1100"
+          },
+          {
+            "close": "2200",
+            "day": 3,
+            "open": "1100"
+          },
+          {
+            "close": "2200",
+            "day": 4,
+            "open": "1100"
+          },
+          {
+            "close": "2300",
+            "day": 5,
+            "open": "1100"
+          },
+          {
+            "close": "2300",
+            "day": 6,
+            "open": "1100"
+          },
+          {
+            "close": "2200",
+            "day": 7,
+            "open": "1100"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "11020 S State St",
+        "address_extended": "Ste B",
+        "country": "US",
+        "cross_street": "",
+        "dma": "Salt Lake City",
+        "locality": "Sandy",
+        "neighborhood": [
+          "Spring Hollow"
+        ],
+        "postcode": "84070",
+        "region": "UT"
+      },
+      "name": "Shake Shack",
+      "photos": [
+        {
+          "created_at": "2021-12-01T19:06:36.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1678676_eO5BqvcbZuLXlr29U_E72ZLIYnT3DfJQMc5qzzimbik.jpg",
+          "width": 1920,
+          "height": 1400
+        },
+        {
+          "created_at": "2020-06-27T18:29:04.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/581069061_HIEAeD_8S-rfnP9PKoTcU0EKXs9AltIZfCSKmynYdXQ.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "created_at": "2019-12-24T21:28:03.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1678676_iMpbNC8wvYD14YjsmpL7OITY9wqiOPQIVjYf-YUwqYk.jpg",
+          "width": 812,
+          "height": 1920
+        },
+        {
+          "created_at": "2019-10-31T03:08:34.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/557899235_ovW86PhgFCf9BV_jKGmyykucuF7SimVv1TgaC8GygqA.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "created_at": "2019-10-20T05:20:23.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/10378523_JLv2CaOabVELyoI0MhK_y0DK_qlt-G7c22Isi9WMRr0.jpg",
+          "width": 1920,
+          "height": 1440,
+          "classifications": [
+            "food"
+          ]
+        }
+      ],
+      "rating": 7.7,
+      "tel": "(385) 276-3190",
+      "website": "http://www.shakeshack.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13068,
+          "name": "American Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Popeyes , Where Slow Cooking Meets Louisiana Fast - Our menu features our famous Bonafide Chicken, Handcrafted Tenders, delicious Seafood options, Red Beans and Rice, Buttermilk Biscuits and more.",
+      "distance": 19099,
+      "hours": {
+        "display": "Open Daily 10:00 AM-11:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2300",
+            "day": 1,
+            "open": "1000"
+          },
+          {
+            "close": "2300",
+            "day": 2,
+            "open": "1000"
+          },
+          {
+            "close": "2300",
+            "day": 3,
+            "open": "1000"
+          },
+          {
+            "close": "2300",
+            "day": 4,
+            "open": "1000"
+          },
+          {
+            "close": "2300",
+            "day": 5,
+            "open": "1000"
+          },
+          {
+            "close": "2300",
+            "day": 6,
+            "open": "1000"
+          },
+          {
+            "close": "2300",
+            "day": 7,
+            "open": "1000"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "7149 S Bingham Junction Blvd",
+        "country": "US",
+        "cross_street": "at South St",
+        "dma": "Salt Lake City",
+        "locality": "Midvale",
+        "postcode": "84047",
+        "region": "UT"
+      },
+      "menu": "https://www.popeyes.com/explore-menu",
+      "name": "Popeyes Louisiana Kitchen",
+      "photos": [
+        {
+          "created_at": "2021-02-22T20:12:40.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/87388367_fYDPPJoxdj_GCtY1ru6RN6eaplFTeOptfEvG7gOa7m4.jpg",
+          "width": 619,
+          "height": 720
+        },
+        {
+          "created_at": "2021-02-22T20:12:39.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/87388367_sFRKvP-77Q9glpxfgLl6PINSl24m3rkGpto_SAn7oRI.jpg",
+          "width": 619,
+          "height": 792
+        },
+        {
+          "created_at": "2016-07-08T02:57:08.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/67558587_jYmIPCcCyUr3mqUYD9_zdQeMeKEs1R1lEjeIt5kF_NY.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "created_at": "2015-08-15T00:06:11.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1784923_seo76LHaCTkTDHO-ujOSm_eyUC0nHS0gHNuAIuzg9AA.jpg",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "created_at": "2014-12-21T20:08:46.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/11129486_NYd2JlwjAsg8xunTBBKsYwpLgtYhQ41qHww5VjoQ6Zc.jpg",
+          "width": 540,
+          "height": 960,
+          "classifications": [
+            "food"
+          ]
+        }
+      ],
+      "rating": 8.1,
+      "tel": "(801) 255-5837",
+      "website": "http://popeyes.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13026,
+          "name": "BBQ Joint",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13068,
+          "name": "American Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 4934,
+      "hours": {
+        "display": "Mon-Thu 11:00 AM-8:00 PM; Fri-Sat 11:00 AM-9:00 PM; Sun 12:00 PM-8:00 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2000",
+            "day": 1,
+            "open": "1100"
+          },
+          {
+            "close": "2000",
+            "day": 2,
+            "open": "1100"
+          },
+          {
+            "close": "2000",
+            "day": 3,
+            "open": "1100"
+          },
+          {
+            "close": "2000",
+            "day": 4,
+            "open": "1100"
+          },
+          {
+            "close": "2100",
+            "day": 5,
+            "open": "1100"
+          },
+          {
+            "close": "2100",
+            "day": 6,
+            "open": "1100"
+          },
+          {
+            "close": "2000",
+            "day": 7,
+            "open": "1200"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "1628 W Traverse Pkwy",
+        "country": "US",
+        "cross_street": "",
+        "dma": "Salt Lake City",
+        "locality": "Lehi",
+        "postcode": "84043",
+        "region": "UT"
+      },
+      "name": "RandR BBQ",
+      "photos": [
+        {
+          "created_at": "2021-07-18T20:51:04.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/4558422_f9ATx8O56UQJnh2YL8v2xxpTIBvGoNAvwFeqjF-AT5w.jpg",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "created_at": "2018-10-16T18:37:42.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/69876_dzuoyWaEZKnHQPeRsfsxcD7rtFbjSpDQRnAFE3BXWB4.jpg",
+          "width": 1440,
+          "height": 1920,
+          "classifications": [
+            "indoor"
+          ]
+        },
+        {
+          "created_at": "2018-06-06T23:35:24.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/37978633_gp6U0hJHSdfJlQnv4czuQBYkR2Q-pz2-3JsYSuPZ1Qs.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "created_at": "2018-01-03T19:32:36.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/269330_4VydN_hgPa1MNlikKTvXmVNFy5AMYanIvju3XdRNG8s.jpg",
+          "width": 1440,
+          "height": 1916
+        },
+        {
+          "created_at": "2017-12-29T20:53:49.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/269330_KybAUTii5PzcUl-N2IniHb7b03tSMpfJ_NNVyhF7nRk.jpg",
+          "width": 1920,
+          "height": 1440
+        }
+      ],
+      "rating": 7.2,
+      "tel": "(385) 345-4001",
+      "website": "https://randrbbq.com/"
+    },
+    {
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13303,
+          "name": "Mexican Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "",
+      "distance": 15425,
+      "hours": {
+        "display": "Open Daily 12:00 AM-11:59 PM",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2359",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 7,
+            "open": "0000"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "730 E State Rd",
+        "country": "US",
+        "dma": "Salt Lake City",
+        "locality": "American Fork",
+        "postcode": "84003",
+        "region": "UT"
+      },
+      "name": "Del Taco",
+      "photos": [
+        {
+          "created_at": "2011-11-06T23:50:50.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/YL03K0PELVY4SZFGYKSJ2D43NZ5MPJ3G5LPZPVDAKVIL21WQ.jpg",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "created_at": "2021-02-08T23:15:35.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1360951084_ZZvdTs1kmcNcT5akCZHCrQm3uqlcqijHf6WM7Gx5ls8.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "created_at": "2021-02-04T22:09:34.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1360951084_gFXZJizFBXpS8hSH2HqxyoQ0skNjrOewXYZiqkqVmCk.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "created_at": "2021-01-30T22:52:14.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1360951084_CKsyY2M7jJK6baSNWuPMy7_uy4tSRFM1S-aGRQ7p8qg.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "created_at": "2021-01-29T00:07:19.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1360951084_tRuNk3ObES6zmnFJ5JxvNhDvDlSlVd6P71WmzlSVTxk.jpg",
+          "width": 1440,
+          "height": 1920
+        }
+      ],
+      "rating": 7.8,
+      "tel": "(385) 387-1355",
+      "website": "http://www.deltaco.com"
+    },
+    {
+      "categories": [
+        {
+          "id": 13040,
+          "name": "Dessert Shop",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 17736,
+      "hours": {
+        "is_local_holiday": false,
+        "open_now": false,
+        "seasonal": []
+      },
+      "location": {
+        "address": "152 S Pleasant Grove Blvd",
+        "country": "US",
+        "cross_street": "",
+        "dma": "Salt Lake City",
+        "locality": "Pleasant Grove",
+        "postcode": "84062",
+        "region": "UT"
+      },
+      "name": "Sodalicious",
+      "photos": [
+        {
+          "created_at": "2021-12-10T21:29:50.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/2394589_jQM4QTQGqV15HMS2D7mkWfJMVdz-GjgUlC5qjofJTDQ.jpg",
+          "width": 1080,
+          "height": 810
+        },
+        {
+          "created_at": "2021-12-06T22:07:26.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/2394589_CJI3qneRkCfjeubMYQwHVqAGx-EIJoLwJ6vlnXnmXas.jpg",
+          "width": 1900,
+          "height": 1425
+        },
+        {
+          "created_at": "2021-10-28T20:00:19.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/2394589_hWTacbBXCdz7xpxi2qmaQU7YDXpgiqRy3s031Juso-I.jpg",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "created_at": "2021-09-16T21:24:53.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/2394589_iovUHZ4PaBjtlnfcfL_1c8XmGCcrtE2rj6IHthkghYs.jpg",
+          "width": 1080,
+          "height": 810
+        },
+        {
+          "created_at": "2021-09-15T21:07:55.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/2394589_rtZakldeKZ6rzO-hQUA8_NVt3ynvmcyG6HIeh8jYV8s.jpg",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "rating": 7.9
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 40.45,
+          "longitude": -111.93
+        },
+        "radius": 20000
+      }
+    }
+  }
+}
