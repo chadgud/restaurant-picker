@@ -5,7 +5,7 @@ import './index.css';
 import App from './App';
 import Decide from './routes/Decide';
 import Result from './routes/Result';
-import reportWebVitals from './reportWebVitals';
+import Switch from './routes/Switch';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -14,13 +14,9 @@ ReactDOM.render(
         <Route path="/" element={<App />} />
         <Route path="/decide" element={<Decide />} />
         <Route path="/result" element={<Result />} />
+        <Route path="/switch" element={<Switch />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
