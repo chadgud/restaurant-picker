@@ -36,7 +36,7 @@ const Decide = () => {
                 }
             });
         }
-    }, [person1Data, person2Data, placeIndex]);
+    }, [person1Data, person2Data, placeIndex, fourSquareData, navigate, person, state]);
 
     let restaurant = fourSquareData[placeIndex];
 
@@ -65,7 +65,7 @@ const Decide = () => {
         } else {
             return (
                 <div className='carousel-item active'>
-                    <img className="card-img-top img-fluid" src="./tim-mossholder-FH3nWjvia-U-unsplash.jpg" />
+                    <img className="card-img-top img-fluid" src="./tim-mossholder-FH3nWjvia-U-unsplash.jpg" alt="" />
                 </div>
             )
         }

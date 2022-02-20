@@ -24,7 +24,7 @@ function App() {
         }
       };
 
-      axios.get('http://localhost:3001', reqConfig)
+      axios.get('https://dinner-decider-app.herokuapp.com', reqConfig)
         .then((res) => {
           navigate('/decide', {
             state: {
