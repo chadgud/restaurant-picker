@@ -6,6 +6,7 @@ import App from './App';
 import Decide from './routes/Decide';
 import Result from './routes/Result';
 import Switch from './routes/Switch';
+import Recorded from './routes/Recorded';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -15,6 +16,7 @@ ReactDOM.render(
         <Route path="/decide" element={<Decide />} />
         <Route path="/result" element={<Result />} />
         <Route path="/switch" element={<Switch />} />
+        <Route path="/recorded" element={<Recorded />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,

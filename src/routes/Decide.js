@@ -19,7 +19,7 @@ const Decide = () => {
         }
 
         if (person1Data.length === fourSquareData.length && person2Data.length === fourSquareData.length) {
-            navigate('/result', {
+            navigate('/recorded', {
                 state: {
                     person1Data: person1Data,
                     person2Data: person2Data,
