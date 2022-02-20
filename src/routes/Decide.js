@@ -90,7 +90,7 @@ const Decide = () => {
                 </div>
                 <div className='card-body'>
                     <h2 className='card-title'>{restaurant.name}</h2>
-                    <p className='my-0'>Location: <a href={'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(restaurant.location.address).replace(/%20/i, '+') + '+' + encodeURIComponent(restaurant.location.locality).replace(/%20/i, '+') + '%2C' + '+' + encodeURIComponent(restaurant.location.region).replace(/%20/i, '+')}>{restaurant.location.address + ' ' + restaurant.location.locality + ',' + ' ' + restaurant.location.region}</a></p>
+                    <p className='my-0'>Location: <a href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.location.address).replace(/%20/i, '+')}+${encodeURIComponent(restaurant.location.locality).replace(/%20/i, '+')}%2C+${encodeURIComponent(restaurant.location.region).replace(/%20/i, '+')}`}>{`${restaurant.location.address} ${restaurant.location.locality}, ${restaurant.location.region}`}</a></p>
                     <p className='my-0'>Distance: {(restaurant.distance / 1609).toFixed(1)} miles</p>
                     <p className='my-0'>Phone: <a href={'tel:' + restaurant.tel}>{restaurant.tel}</a></p>
                     <p className='my-0'>Website: <a href={restaurant.website}>{restaurant.website}</a></p>
