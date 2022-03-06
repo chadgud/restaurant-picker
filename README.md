@@ -5,7 +5,7 @@ My wife and I often have a hard time deciding on a place to eat when we go out. 
 
 Let me take you on a quick tour!
 
-## Start Page
+## Landing Page
 
 The start page provides directions and asks the user for their location (browswer location services must be turned on for this to work).
 
