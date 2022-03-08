@@ -8,6 +8,28 @@ function App() {
   const navigate = useNavigate();
   const [isLoading, setIsLoading] = useState(false);
 
+  const callBackend = (environment, reqConfig) => {
+    let backEndURL;
+
+    if (environment === 'production') {
+      backEndURL = 'https://dinner-decider-app.herokuapp.com';
+    } else {
+      backEndURL = 'http://localhost:3001';
+    }
+
+    axios.get(backEndURL, reqConfig)
+      .then((res) => {
+        navigate('/decide', {
+          state: {
+            results: res.data.results
+          }
+        })
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+  }
+
   const getLocation = () => {
     setIsLoading(true);
     let lat;
@@ -23,25 +45,24 @@ function App() {
           lon: lon
         }
       };
-
-      axios.get('https://dinner-decider-app.herokuapp.com', reqConfig)
-        .then((res) => {
-          navigate('/decide', {
-            state: {
-              results: res.data.results
-            }
-          })
-        })
-        .catch((err) => {
-          console.log(err);
-        });
+      callBackend(process.env.NODE_ENV, reqConfig);
     }, (err) => console.log(err));
+  }
 
+  const submitAddress = (address) => {
+    setIsLoading(true);
+    const reqConfig = {
+      method: 'get',
+      params: {
+        location: address
+      }
+    };
+    callBackend(process.env.NODE_ENV, reqConfig);
   }
 
   return (
     <div className="App text-center h-100">
-      <Welcome isLoading={isLoading} onClick={getLocation} />
+      <Welcome isLoading={isLoading} onClick={getLocation} onSubmitLoc={submitAddress} />
     </div>
   );
 

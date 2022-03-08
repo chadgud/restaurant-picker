@@ -1,6 +1,6 @@
 const Button = ({ isLoading, text, onClick }) => {
-    return <div>
-        <button className="btn btn-primary" hidden={isLoading} onClick={() => {
+    return <div hidden={isLoading}>
+        <button className="btn btn-primary" onClick={() => {
             onClick();
         }}>
             {text}
